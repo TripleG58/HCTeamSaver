@@ -1,0 +1,123 @@
+/* index.php?page=units */
+.downloadBtn {
+    text-align: center;
+}
+.downloadBtn a:hover {
+    cursor: pointer;
+}
+
+/* https://www.hcrealms.com/forum/units/units_figure.php?q= */
+
+/* power.css from hcrealms.com/forum/units/power.css */
+.power .red {border-color: #A00000 !important; background: #FF0000 url(/images/units-redbox.gif) repeat-x; color: #000000; text-shadow: #A00000 0px 1px 1px;}
+.power .orange {border-color: #B86A02 !important; background: #FFA000 url(/images/units-orangebox.gif) repeat-x; color: #000000; text-shadow: #B86A02 0px 1px 1px;}
+.power .yellow {border-color: #AAAA00 !important; background: #CCCC00 url(/images/units-yellowbox.gif) repeat-x; color: #000000; text-shadow: #AAAA00 0px 1px 1px;}
+.power .lime {border-color: #689402 !important; background: #B0FF00 url(/images/units-limebox.gif) repeat-x; color: #000000; text-shadow: #689402 0px 1px 1px;}
+.power .green {border-color: #069006 !important; background: #00FF00 url(/images/units-greenbox.gif) repeat-x; color: #000000; text-shadow: #069006 0px 1px 1px;}
+.power .blue {border-color: #007171 !important; background: #007171 url(/images/units-bluebox.gif) repeat-x; color: #000000; text-shadow: #007171 0px 1px 1px;}
+.power .darkblue, .power .dblue {border-color: #00005D !important; background: #0000A0 url(/images/units-darkbluebox.gif) repeat-x; color: #FFFFFF; text-shadow: #00005D 0px 1px 1px;}
+.power .purple {border-color: #700070 !important; background: #700070 url(/images/units-purplebox.gif) repeat-x; color: #FFFFFF; text-shadow: #700070 0px 1px 1px;}
+.power .brown {border-color: #805000 !important; background: #805000 url(/images/units-brownbox.gif) repeat-x; color: #FFFFFF; text-shadow: #805000 0px 1px 1px;}
+.power .gray {border-color: #444444 !important; background: #444444 url(/images/units-graybox.gif) repeat-x; color: #FFFFFF; text-shadow: #444444 0px 1px 1px;}
+.power .black {border-color: #000000 !important; background: #000000 url(/images/units-blackbox.gif) repeat-x; color: #FFFFFF; text-shadow: #000000 0px 1px 1px;}
+.power .pink {border-color: #cc9999 !important; background: #FFCCCC url(/images/units-pinkbox.gif) repeat-x; color: #000000; text-shadow: #FFFFFF 0px 1px 1px;}
+.power .special {border: 1px solid #000000 !important; background: #FFFFFF; color: #000000;}
+.power .red-circle {background: url(/images/units-redcircle.gif) center center no-repeat; color: #000000; text-shadow: #A00000 0px 1px 1px;}
+.power .orange-circle {background: url(/images/units-orangecircle.gif) center center no-repeat; color: #000000; text-shadow: #B86A02 0px 1px 1px;}
+.power .yellow-circle {background: url(/images/units-yellowcircle.gif) center center no-repeat; color: #000000; text-shadow: #AAAA00 0px 1px 1px;}
+.power .lime-circle {background: url(/images/units-limecircle.gif) center center no-repeat; color: #000000; text-shadow: #689402 0px 1px 1px;}
+.power .green-circle {background: url(/images/units-greencircle.gif) center center no-repeat; color: #000000; text-shadow: #069006 0px 1px 1px;}
+.power .blue-circle {background: url(/images/units-bluecircle.gif) center center no-repeat; color: #000000; text-shadow: #007171 0px 1px 1px;}
+.power .darkblue-circle {background: url(/images/units-darkbluecircle.gif) center center no-repeat; color: #FFFFFF; text-shadow: #00005D 0px 1px 1px;}
+.power .purple-circle {background: url(/images/units-purplecircle.gif) center center no-repeat; color: #FFFFFF; text-shadow: #700070 0px 1px 1px;}
+.power .brown-circle {background: url(/images/units-browncircle.gif) center center no-repeat; color: #FFFFFF; text-shadow: #805000 0px 1px 1px;}
+.power .gray-circle {background: url(/images/units-graycircle.gif) center center no-repeat; color: #FFFFFF; text-shadow: #444444 0px 1px 1px;}
+.power .black-circle {background: url(/images/units-blackcircle.gif) center center no-repeat; color: #FFFFFF; text-shadow: #000000 0px 1px 1px;}
+.power .special-circle {background: url(/images/units-specialcircle.gif) center center no-repeat; color: #000000;}
+.power .hourglass {background: url(/images/units-hourglass.gif) center center no-repeat;}
+.power .ko {color: #C00000; text-shadow: #805000 0px 1px 1px;}
+.power .un-rookie {background: url('/images/cm225-un-rookie.gif') 1px 1px no-repeat;color: #FFFFFF;}
+.power .un-experienced {background: url('/images/cm225-un-experienced.gif') 1px 1px no-repeat;color: #FFFFFF;}
+.power .un-veteran {background: url('/images/cm225-un-veteran.gif') 1px 1px no-repeat;color: #FFFFFF;}
+.power .un-all {background: url('/images/cm225-un-all.gif') 1px 1px no-repeat;color: #FFFFFF;}
+.power .cosmicengine {background: url('/images/cm225-cosmicengine.gif') 1px 1px no-repeat;color: #FFFFFF;}
+
+/* Fin Fang Foom */
+.power .fff-c-r {background: url('/images/fff-c-r.gif') no-repeat;}
+.power .fff-c-g {background: url('/images/fff-c-g.gif') no-repeat;}
+.power .fff-c-b {background: url('/images/fff-c-b.gif') no-repeat;}
+.power .fff-m-r {background: url('/images/fff-m-r.gif') no-repeat;}
+.power .fff-m-g {background: url('/images/fff-m-g.gif') no-repeat;}
+.power .fff-m-b {background: url('/images/fff-m-b.gif') no-repeat;}
+.power .fff-d-r {background: url('/images/fff-d-r.gif') no-repeat;}
+.power .fff-d-g {background: url('/images/fff-d-g.gif') no-repeat;}
+.power .fff-d-b {background: url('/images/fff-d-b.gif') no-repeat;}
+.power .fff-a-r {background: url('/images/fff-a-r.gif') no-repeat;}
+.power .fff-a-b {background: url('/images/fff-a-b.gif') no-repeat;}
+.power .fff-st-c-r {background: url('/images/fff-st-c-r.gif') no-repeat;}
+.power .fff-st-c-b {background: url('/images/fff-st-c-b.gif') no-repeat;}
+.power .fff-st-m-b {background: url('/images/fff-st-m-b.gif') no-repeat;}
+.power .fff-st-d-b {background: url('/images/fff-st-d-b.gif') no-repeat;}
+.power .fff-sw-c-r {background: url('/images/fff-sw-c-r.gif') no-repeat;}
+.power .fff-sw-c-g {background: url('/images/fff-sw-c-g.gif') no-repeat;}
+.power .fff-sw-c-b {background: url('/images/fff-sw-c-b.gif') no-repeat;}
+.power .fff-sw-m-r {background: url('/images/fff-sw-m-r.gif') no-repeat;}
+.power .fff-sw-m-b {background: url('/images/fff-sw-m-b.gif') no-repeat;}
+
+/* Movement */
+.power .m-boot {background: url(/images/units-m-boot-black.gif) 2px 2px / 15px 15px  no-repeat;}
+.power .red-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-redcircle.gif) no-repeat;}
+.power .orange-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-orangecircle.gif) no-repeat;}
+.power .yellow-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-yellowcircle.gif) no-repeat;}
+.power .lime-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-limecircle.gif) no-repeat;}
+.power .green-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-greencircle.gif) no-repeat;}
+.power .blue-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-bluecircle.gif) no-repeat;}
+.power .darkblue-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-darkbluecircle.gif) no-repeat;}
+.power .purple-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-purplecircle.gif) no-repeat;}
+.power .brown-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-browncircle.gif) no-repeat;}
+.power .gray-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-graycircle.gif) no-repeat;}
+.power .black-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-blackcircle.gif) no-repeat;}
+.power .pink-m-boot {background: url(/images/units-m-boot.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-pinkcircle.gif) no-repeat;}
+/* Attack */
+.power .a-fist {background: url(/images/units-a-fist-black.gif) 2px 2px / 15px 15px  no-repeat;}
+.power .red-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-redcircle.gif) no-repeat;}
+.power .orange-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-orangecircle.gif) no-repeat;}
+.power .yellow-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-yellowcircle.gif) no-repeat;}
+.power .lime-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-limecircle.gif) no-repeat;}
+.power .green-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-greencircle.gif) no-repeat;}
+.power .blue-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-bluecircle.gif) no-repeat;}
+.power .darkblue-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-darkbluecircle.gif) no-repeat;}
+.power .purple-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-purplecircle.gif) no-repeat;}
+.power .brown-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-browncircle.gif) no-repeat;}
+.power .gray-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-graycircle.gif) no-repeat;}
+.power .black-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-blackcircle.gif) no-repeat;}
+.power .pink-a-fist {background: url(/images/units-a-fist.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-pinkcircle.gif) no-repeat;}
+/* Defense */
+.power .d-shield {background: url(/images/units-d-shield-black.gif) 2px 2px / 15px 15px  no-repeat;}
+.power .red-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-redcircle.gif) no-repeat;}
+.power .orange-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-orangecircle.gif) no-repeat;}
+.power .yellow-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-yellowcircle.gif) no-repeat;}
+.power .lime-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-limecircle.gif) no-repeat;}
+.power .green-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-greencircle.gif) no-repeat;}
+.power .blue-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-bluecircle.gif) no-repeat;}
+.power .darkblue-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-darkbluecircle.gif) no-repeat;}
+.power .purple-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-purplecircle.gif) no-repeat;}
+.power .brown-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-browncircle.gif) no-repeat;}
+.power .gray-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-graycircle.gif) no-repeat;}
+.power .black-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-blackcircle.gif) no-repeat;}
+.power .pink-d-shield {background: url(/images/units-d-shield.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-pinkcircle.gif) no-repeat;}
+/* Damage */
+.power .g-starburst {background: url(/images/units-g-starburst-black.gif) 2px 2px / 15px 15px  no-repeat;}
+.power .red-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-redcircle.gif) no-repeat;}
+.power .orange-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-orangecircle.gif) no-repeat;}
+.power .yellow-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-yellowcircle.gif) no-repeat;}
+.power .lime-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-limecircle.gif) no-repeat;}
+.power .green-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-greencircle.gif) no-repeat;}
+.power .blue-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-bluecircle.gif) no-repeat;}
+.power .darkblue-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-darkbluecircle.gif) no-repeat;}
+.power .purple-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-purplecircle.gif) no-repeat;}
+.power .brown-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-browncircle.gif) no-repeat;}
+.power .gray-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-graycircle.gif) no-repeat;}
+.power .black-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-blackcircle.gif) no-repeat;}
+.power .pink-g-starburst {background: url(/images/units-g-starburst.gif) 2px 2px / 15px 15px  no-repeat, url(/images/units-pinkcircle.gif) no-repeat;}
+

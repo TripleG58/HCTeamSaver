@@ -1,0 +1,19 @@
+{
+    "name": "HCTeamSaver",
+    "version": "0.0.0.1",
+    "description": "Chrome extension allowing you to easily save your team builds on HCRealms.com.",
+    "icons": {
+        "16": "icon16.png",
+        "32": "icon32.png",
+        "64": "icon64.png",
+        "128": "icon128.png"
+    },
+    "content_scripts": [
+        {
+            "matches": ["*://www.hcrealms.com/index.php?page=units*","*://www.hcrealms.com/forum/units/units_figure.php?q=*"],
+            "css": ["HCTeamSaver.css"],
+            "js": ["HCTeamSaver.js"]
+        }
+    ],
+    "manifest_version": 2
+  }
