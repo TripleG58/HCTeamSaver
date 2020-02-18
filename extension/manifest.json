@@ -1,6 +1,6 @@
 {
     "name": "HCTeamSaver",
-    "version": "0.0.0.2",
+    "version": "0.0.0.3",
     "description": "Chrome extension allowing you to easily save your team builds on HCRealms.com.",
     "icons": {
         "16": "icon16.png",
