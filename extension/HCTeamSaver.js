@@ -27,7 +27,7 @@
             }
             qs(elem, 'br + div').remove(); // remove show all button
     
-            // parse out list of ids
+            // download myTeam file
             var file = elem.outerHTML + "<style>body > #inHand {max-width: 300px;}img.inlineimg {display: none;}.units_link:hover {cursor: pointer;}</style><script>function showFigure(str) {let url = 'https://www.hcrealms.com/forum/units/units_figure.php?q=';url += str;window.open(url, '_blank');}</script>";
             download(file, "myTeam.html", "text/html");
         };
@@ -55,7 +55,10 @@
             elem = dqs('body > table:nth-child(1) > tbody > tr:nth-child(2) > td > table > tbody > tr > td:nth-child(2)');
             elem.remove();
         }
-        
+        // set appropriate styling
+        dqs('body').style.maxWidth = '519px';
+        dqs('body > table:nth-child(1) > tbody > tr:nth-child(2) > td > table > tbody > tr > td:nth-child(1)').style.height = '30px';
+
     }
     
 })();
