@@ -464,7 +464,7 @@ label { cursor: default; }
 #setsbar .icon a:hover {text-decoration: none;}
 #setsbar .icon img {margin:3px;}
 #setsbar .icon td {text-align:center; padding:3px; font-size:10px; font-weight:bold;}
-#setsbar .icon .pending {margin:3px 9px;} //padding for sets not active yet
+#setsbar .icon .pending {margin:3px 9px;} 
 
 /* ***** style for battlefield tiles ***** */
 .tile-clear {display: table-cell; background:#FFFFFF; border: 2px solid #FFFFFF; height: 24px; width: 24px; line-height: 24px; text-align: center; color: #000; margin: 1px 1px 0 0;}
